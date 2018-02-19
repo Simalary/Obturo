@@ -1,0 +1,2 @@
+@interface PoAppInfoViewController : UIViewController
+@end
